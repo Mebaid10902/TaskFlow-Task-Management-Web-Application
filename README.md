@@ -1,6 +1,5 @@
 📦 Prerequisites
 Java 8 or higher
-
 Maven 3.x
 
 MySQL Server
@@ -10,14 +9,13 @@ IDE (IntelliJ, Eclipse, or VS Code)
 🛠️ Setup Instructions
 1. Clone the project
 bash
-Copy
-Edit
 git clone https://github.com/Mebaid10902/TaskFlow-Task-Management-Web-Application
 cd taskflow
 2. Create the MySQL Database
 Open your MySQL client and run:
 
 sql
+
 CREATE DATABASE users_database;
 ⚠️ Make sure your MySQL server is running and accessible at localhost:3306.
 
